@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: 'mongodb://localhost:27017/auth',
+  mongoURI: 'mongodb+srv://Rahul:Raul1234@authentication.enbid.mongodb.net/users?retryWrites=true&w=majority',
   secret: 'yoursecretkey',
 };
